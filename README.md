@@ -1,4 +1,4 @@
-# OpenSourceInternships
+# Open Source Internships
 
 Summer of Code Programs
 
