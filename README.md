@@ -13,9 +13,10 @@ Summer of Code Programs
 | [Processing Foundation Fellowship](https://processingfoundation.org/fellowships/) | Yes |
 | [FOSSASIA Internship Programme](https://blog.fossasia.org/fossasia-internship-program-2018/) | No |
 | [John Hunter Matplotlib Summer Fellowship](https://www.numfocus.org/programs/john-hunter-technology-fellowship)| Yes |
+| [Social Summer of Code](https://hack2skill.com/hack/ssoc) | No |
+| [MLH Fellowship](https://fellowship.mlh.io/) | Yes |
 
 # Open Source Competitions
-
 
 | Name                                    | Awards |
 |-----------------------------------------|-------------|
@@ -24,6 +25,7 @@ Summer of Code Programs
 | [Quantopian Open](https://www.quantopian.com/open) | Cash prizes for winners|
 | [Hacktoberfest](https://hacktoberfest.digitalocean.com/) | Swag rewards|
 | [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage) | Prizes for winners**|
+| [GirlScript Summer of Code](https://gssoc.girlscript.tech/) | Swag rewards|
 
 # Game Development Programs
 
