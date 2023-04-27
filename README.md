@@ -25,6 +25,7 @@ Summer of Code Programs
 | [Quantopian Open](https://www.quantopian.com/open) | Cash prizes for winners|
 | [Hacktoberfest](https://hacktoberfest.digitalocean.com/) | Swag rewards|
 | [OSS World Challenge](https://www.oss.kr/en_oss_world_challenage) | Prizes for winners**|
+| [GirlScript Summer of Code](https://gssoc.girlscript.tech/) | Swag rewards|
 
 # Game Development Programs
 
