@@ -13,9 +13,9 @@ Summer of Code Programs
 | [Processing Foundation Fellowship](https://processingfoundation.org/fellowships/) | Yes |
 | [FOSSASIA Internship Programme](https://blog.fossasia.org/fossasia-internship-program-2018/) | No |
 | [John Hunter Matplotlib Summer Fellowship](https://www.numfocus.org/programs/john-hunter-technology-fellowship)| Yes |
+| [Social Summer of Code](https://hack2skill.com/hack/ssoc) | No |
 
 # Open Source Competitions
-
 
 | Name                                    | Awards |
 |-----------------------------------------|-------------|
